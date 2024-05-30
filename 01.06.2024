@@ -437,7 +437,8 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8?vsi
 http://mfe01.cliptv.az/dash/Matc_Boec_SD12sd56b.ism/playlist.mpd
 #EXTINF:0, Матч! Боец 2
 http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/9159/index.m3u8
-
+#EXTINF:0,Okko Спорт HD
+http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:0,Матч! Футбол 1 HD 
 http://mfe01.cliptv.az:80/dash/Match_Football_1_HD_fghgyg44515.ism/playlist.mpd
 #EXTINF:0,Матч! Футбол 1 HD (rez)
