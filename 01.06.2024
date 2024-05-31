@@ -26,9 +26,9 @@ https://yayin8.canlitv.day/livetv/xezertv.stream/chunklist_w882641076.m3u8
 #EXTINF:0,Xezer TV SD (REZ)
 http://mfe.cliptv.az/dash/Xezer_SDuk.000656_re.ism/playlist.mpd
 
-#EXTINF:0,Ictimai HD
+#EXTINF:0,Ictimai SD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
-#EXTINF:0,Ictimai SD (REZ)
+#EXTINF:0,Ictimai HD (REZ)
 http://mfe02.cliptv.az/dash/Ictimai_HDrgn002056_re.ism/playlist.mpd
 
 #EXTINF:0,Space TV
