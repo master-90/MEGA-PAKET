@@ -211,8 +211,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 http://38659.mooo.com/hls/sr7n489dab/474.m3u8
 #EXTINF:0,Че
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:0,Perec
-http://178.124.179.122:8088/Peretz/index.m3u8
+#EXTINF:0,Перец International
+http://38659.mooo.com/hls/sr7n489dab/1097.m3u8
 #EXTINF:0,Ю ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:0,Mir
