@@ -313,8 +313,8 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Animal_Planet/mono.m3u8?token
 https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8?vsid=q7fltz6m8afqluz
 #EXTINF:0,
 
-#EXTINF:0,Travel_Channel
-http://mfe01.cliptv.az:80/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:0,ГЛАЗАМИ ТУРИСТА
+https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
 
 
 #EXTINF:0,Кино ТВ
