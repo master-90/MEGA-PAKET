@@ -260,7 +260,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,RBK
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:0,Евроновости
-https://ythls.armelin.one/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8
 http://mfe01.cliptv.az/dash/Evronovosti_SDpoz269.ism/playlist.mpd
 #EXTINF:0, Дoждь 
 http://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b1628000.m3u8
@@ -294,8 +293,8 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti10/NATIONALGEOGRAPHIC/mono.m3u8
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:0,Nat Geo Wild HD
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
-#EXTINF:0,Viasat Nature
-http://bal.pst.streaming-elbrus.su:8880/bigteisti13/viasat_nature_SD/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
+#EXTINF:0, Viju Nature HD
+http://38659.mooo.com/hls/sr7n489dab/319.m3u8
 #EXTINF:0,Viasat History HD
 http://bal.pst.streaming-elbrus.su:8880/bigteisti13/viasat_history_SD/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
