@@ -233,7 +233,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://bal.pst.streaming-elbrus.su:8880/bigteisti8/POBEDA/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0,Пoбеда HD (REZ)
 http://109.205.166.68/server123/tlc/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
-#EXTINF:0, Ден Пoбеда
+#EXTINF:0, ДенПoбеда
+http://38659.mooo.com/hls/sr7n489dab/907.m3u8
 https://strm.yandex.ru/kal/den_pobedy/den_pobedy0.m3u8
 #EXTINF:0,Золотая коллекция
 http://bal.pst.streaming-elbrus.su:8880/bigteisti2/mosfilmhd/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
