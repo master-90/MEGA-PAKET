@@ -358,7 +358,6 @@ http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
 #EXTINF:0,Киносвидание HD
 http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
 #EXTINF:0, Родное Кино
-http://91.205.199.3/rodnoekino/index.m3u8
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:0, Киносерия
 http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
