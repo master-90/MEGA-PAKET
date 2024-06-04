@@ -20,7 +20,6 @@ https://yayin8.canlitv.day/livetv/atvazad.stream/chunklist.m3u8
 http://mfe02.cliptv.az:80/dash/ATV_SDthm07005_re.ism/playlist.mpd
 
 #EXTINF:0,Xezer TV HD
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 https://yayin8.canlitv.day/livetv/xezertv.stream/chunklist_w882641076.m3u8
 
 #EXTINF:0,Xezer TV SD (REZ)
