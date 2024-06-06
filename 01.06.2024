@@ -336,7 +336,8 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti2/tv1000_action_SD/mono.m3u8?to
 #EXTINF:0,Viju TV1000 Русский Кино
 http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-
+#EXTINF:0,viju TV1000 Новелла
+http://fl-strm05.tvitech.com/TV_1000_Novella/index.m3u8
 
 #EXTINF:0,Viju Premiere
 http://mfe.cliptv.az/dash/VIP_Premium_HD_5PIVqwerty89.ism/playlist.mpd
