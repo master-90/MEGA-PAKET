@@ -579,9 +579,12 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:0,Бокс ТВ
 http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/870/index.m3u8
 #EXTINF:0,MMA-TV
+http://fl-strm05.tvitech.com/MMA-TV.com/index.m3u8
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8?vsid=0rdjld7k9e89x9g
 #EXTINF:0, КХЛ
 http://38659.mooo.com/hls/sr7n489dab/45.m3u8
+
+
 Turk ULUSAL
 
 #EXTINF:0,TRT 1 HD
