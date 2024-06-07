@@ -588,6 +588,8 @@ Turk ULUSAL
 #EXTINF:0,TRT 1 HD
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 https://tv-TRT1.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT 1 HD (YEDEK)
+http://fl-strm05.tvitech.com/TRT1/index.m3u8
 #EXTINF:0,NOW HD
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
@@ -599,7 +601,7 @@ http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
 #EXTINF:0,A2
 https://bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
 #EXTINF:0,A2 HD
-http://homeip.biz/TR_A2/index.m3u8
+http://fl-strm05.tvitech.com/A2TR_orig/index.m3u8
 #EXTINF:0,KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0,KANAL D Full HD (1080)
