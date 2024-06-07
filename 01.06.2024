@@ -17,11 +17,10 @@ http://mfe02.cliptv.az:80/dash/AzTV_SD1qaz_re.ism/playlist.mpd
 #EXTINF:0,Azad Azerbaycan HD 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
 #EXTINF:0,Azad Azerbaycan (REZ)
-https://yayin8.canlitv.day/livetv/atvazad.stream/chunklist.m3u8
 http://mfe02.cliptv.az:80/dash/ATV_SDthm07005_re.ism/playlist.mpd
 
 #EXTINF:0,Xezer TV HD
-https://yayin8.canlitv.day/livetv/xezertv.stream/chunklist_w882641076.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 #EXTINF:0,Xezer TV SD (REZ)
 http://mfe.cliptv.az/dash/Xezer_SDuk.000656_re.ism/playlist.mpd
