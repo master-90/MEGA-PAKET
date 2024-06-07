@@ -628,7 +628,7 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8
 
 #EXTINF:0,Beyaz Tv
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:0,Teve 2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 #EXTINF:0,TV8 HD
