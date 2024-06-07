@@ -621,8 +621,8 @@ http://135.125.234.9:8081/showturk/index.m3u8
 #EXTINF:0,Showmax
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
 #EXTINF:0,KANAL 7
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
-#EXTINF:0,KANAL 7 (REZ)
+
+#EXTINF:0,KANAL 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:0,KANAL 7 Avrupa
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8
