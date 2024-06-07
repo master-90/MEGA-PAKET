@@ -635,10 +635,10 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 #EXTINF:0,TV8 HD
 http://mfe.cliptv.az/dash/TV_8_HDpjg500256_re.ism/playlist.mpd
-#EXTINF:0,TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_web
-http://45.15.43.12:80/tv8/playlist.m3u8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0,TV8 HD (REZ)
+http://fl-strm05.tvitech.com/TV8/index.m3u8
+
+
 
 #EXTINF:0,TV8.5
 http://116.202.238.88/TV8.5_TR/playlist.m3u8
