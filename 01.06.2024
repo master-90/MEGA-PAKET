@@ -61,7 +61,6 @@ https://rtmp.baku.tv/streams/bakutv.m3u8
 http://rtmp.apa.tv:80/@pagroup!23.m3u8
 
 #EXTINF:0,Mədəniyyət Tv
-https://yayin8.canlitv.day/livetv/medeniyettv.stream/chunklist_w2140184091.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
 
 #EXTINF:0,ATV Sinema
