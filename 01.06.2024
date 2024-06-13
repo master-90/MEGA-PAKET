@@ -15,13 +15,14 @@ http://str.yodacdn.net/aztv/index.m3u8
 http://mfe02.cliptv.az:80/dash/AzTV_SD1qaz_re.ism/playlist.mpd
 
 #EXTINF:0,Azad Azerbaycan HD 
+http://185.32.44.154/azadazerbaycanhd/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
-#EXTINF:0,Azad Azerbaycan (TECH)
+#EXTINF:0,Azad Azerbaycan HD REZ
 http://mfe02.cliptv.az:80/dash/ATV_SDthm07005_re.ism/playlist.mpd
 
 #EXTINF:0,Xezer TV HD
+http://185.32.44.154/XezerTVHD/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-
 #EXTINF:0,Xezer TV SD (REZ)
 http://mfe.cliptv.az/dash/Xezer_SDuk.000656_re.ism/playlist.mpd
 
@@ -31,18 +32,19 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-
 http://mfe02.cliptv.az/dash/Ictimai_HDrgn002056_re.ism/playlist.mpd
 
 #EXTINF:0,Space TV
+http://185.32.44.154/spacetv/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:0,Space TV(REZ)
 http://mfe02.cliptv.az/dash/Space_SDrgn040056_re.ism/playlist.mpd
 
 #EXTINF:0,arb
+http://185.32.44.154/arb/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:0,arb (REZ)
 http://mfe01.cliptv.az:80/dash/ARB_SDwdv010056_re.ism/playlist.mpd
 
 #EXTINF:0,arb24 HD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-http://135.181.115.81:8000/play/a01x/index.m3u8?token=livetv
 #EXTINF:0,arb24 SD (REZ)
 http://mfe02.cliptv.az/dash/ARB_24_SDrfv011056_re.ism/playlist.mpd
 
@@ -58,13 +60,12 @@ https://rtmp.baku.tv/streams/bakutv.m3u8
 http://rtmp.apa.tv:80/@pagroup!23.m3u8
 
 #EXTINF:0,Mədəniyyət Tv
-http://fl-strm05.tvitech.com/Medeniyyet/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
 
 #EXTINF:0,ATV Sinema
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 
-#EXTINF:0,Idman Azerbaycan HD (TECH)
+#EXTINF:0,Idman Azerbaycan HD
 http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
 #EXTINF:0,Idman Azerbaycan HD (REZ)
 http://mfe.cliptv.az/dash/Idman_HDthd140056_re.ism/playlist.mpd
@@ -84,6 +85,7 @@ http://edge02.odtv.az/o1/cbc/playlist.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
 #EXTINF:0,Kanal S (Şəki)
+http://185.32.44.154/Kanal_S/index.m3u8
 http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
 
 #EXTINF:0,ELTV (Yevlax)
@@ -157,7 +159,7 @@ http://213.239.195.222:80/azerbaijan/vostok/chunks.m3u8
 http://mfe02.cliptv.az/dash/ARB_Gunesh_SDthd013056_re.ism/playlist.mpd
 
 #EXTINF:0, Пeрвый канал HD
-http://fl-strm05.tvitech.com/Pervyi_Kanal/index.m3u8
+http://185.32.44.154/PerviyHD/index.m3u8
 #EXTINF:0, Пeрвый канал SD
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 
@@ -334,7 +336,7 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti2/tv1000_action_SD/mono.m3u8?to
 http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,viju TV1000 Новелла
-http://fl-strm05.tvitech.com/TV_1000_Novella/index.m3u8
+
 
 #EXTINF:0,Viju Premiere
 http://mfe.cliptv.az/dash/VIP_Premium_HD_5PIVqwerty89.ism/playlist.mpd
@@ -393,7 +395,7 @@ http://mfe01.cliptv.az:80/dash/Evrokino_SDas67gh.ism/playlist.mpd
 #EXTINF:0,Еврокино (tbs)
 
 #EXTINF:0,.Sci-Fi HD
-http://fl-strm05.tvitech.com/.sci-fi/index.m3u8
+http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 #EXTINF:0,.black
 http://mfe01.cliptv.az:80/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 #EXTINF:-1,AMEDIA 1
@@ -561,7 +563,7 @@ http://mfe02.cliptv.az:80/dash/EuroSport1_SD_PIV12df56.ism/playlist.mpd
 #EXTINF:0,Eurosport 2 HD
 http://mfe02.cliptv.az/dash/Eurosport2_SDsdf567.ism/playlist.mpd
 #EXTINF:0,TRT SPOR HD
-https://Trtspor.blutv.com/blutv_Trtspor/live.m3u8
+https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 https://bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:0,TRT SPOR HD(rez)
 http://mfe.cliptv.az/dash/TRT_SPOR_HDggg00836_ER.ism/playlist.mpd
@@ -594,6 +596,7 @@ http://fl-strm05.tvitech.com/TRT1/index.m3u8
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0,ATV HD
+http://stream.tvcdn.net/ulusal/atv.m3u8
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:0,ATV HD (yedek)
 http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
@@ -634,8 +637,6 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 http://mfe.cliptv.az/dash/TV_8_HDpjg500256_re.ism/playlist.mpd
 #EXTINF:0,TV8 HD (REZ)
 http://fl-strm05.tvitech.com/TV8/index.m3u8
-
-
 
 #EXTINF:0,TV8.5
 http://116.202.238.88/TV8.5_TR/playlist.m3u8
