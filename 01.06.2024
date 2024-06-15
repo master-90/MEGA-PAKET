@@ -598,7 +598,6 @@ http://185.32.44.154/TRT1HD/index.m3u8
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0,ATV HD
-http://stream.tvcdn.net/ulusal/atv.m3u8
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:0,ATV HD (yedek)
 http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
