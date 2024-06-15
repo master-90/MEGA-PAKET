@@ -604,9 +604,9 @@ http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
 #EXTINF:0,A2
 https://bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
 #EXTINF:0,A2 HD
-http://fl-strm05.tvitech.com/A2TR_orig/index.m3u8
+http://185.32.44.154/a2tv/index.m3u8
 #EXTINF:0,KANAL D HD
-http://fl-strm05.tvitech.com/Kanal_D/index.m3u8
+http://185.32.44.154/KanalDHD/index.m3u8
 #EXTINF:0,KANAL D Full HD (1080)
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0,EURO D HD
