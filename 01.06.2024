@@ -459,6 +459,13 @@ http://mfe02.cliptv.az:80/dash/Match_Football_3_5HDyhnbgt61.ism/playlist.mpd
 #EXTINF:0,Матч! Футбол 3 SD (rez)
 http://38659.mooo.com/hls/sr7n489dab/983.m3u8
 
+#EXTINF:-1,Матч! Футбол 1
+http://38659.mooo.com/high/sr7n489dab/981.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://38659.mooo.com/high/sr7n489dab/982.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://38659.mooo.com/high/sr7n489dab/983.m3u8
+
 #EXTINF:0,SETANTA SPORTS 1 HD(az)
 https://erlyvideo.beeonline.az/SetantaSports/video.m3u8
 
