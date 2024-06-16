@@ -787,8 +787,8 @@ http://mfe.cliptv.az:80/dash/Minika_Cocuk_SDkjh00796_er.ism/playlist.mpd
 #EXTINF:0,Cartoon Network 
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
-#EXTINF:0,**MegA Kino-1**IRADE(2023) NETFLIX
-http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/391766.mkv
+#EXTINF:0,**MegA Kino-1**KURTLAR VADISI (LIVE)
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kurtlarvadisi.m3u8
 #EXTINF:0,**MegA Kino-2**Kırık Kalpler Evi (2024) NETFLIX
 http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/388242.mkv
 #EXTINF:0,**MegA Kino-3**ÖLÜLER VADISI (2022) NETFLIX 
