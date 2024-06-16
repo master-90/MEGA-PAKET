@@ -565,7 +565,6 @@ http://mfe02.cliptv.az:80/dash/EuroSport1_SD_PIV12df56.ism/playlist.mpd
 #EXTINF:0,Eurosport 2 HD
 http://mfe02.cliptv.az/dash/Eurosport2_SDsdf567.ism/playlist.mpd
 #EXTINF:0,TRT SPOR HD
-https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 https://bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:0,TRT SPOR HD(rez)
 http://mfe.cliptv.az/dash/TRT_SPOR_HDggg00836_ER.ism/playlist.mpd
