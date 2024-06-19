@@ -745,8 +745,8 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 https://new.cache-stream.workers.dev/video/UCoJqwTgi_lZpqKKai2na7kQ/live.m3u8
 #EXTINF:0,TRT Muzik
 https://tv-TRTMuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:0,viva russia
-https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/chunks.m3u8?nimblesessionid=159271431
+#EXTINF:0,DAG-MUSIC (DAGESTAN)
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/dag-music.m3u8
 #EXTINF:0,THT Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 https://bl.uma.media/live/619345/HLS/4614144_3/1/1/playlist.m3u8
