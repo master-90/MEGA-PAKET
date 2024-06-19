@@ -614,7 +614,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://startv.blutv.com/blutv_startv_live/live.m3u8
 #EXTINF:0,EUROSTAR
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/eurostar.m3u8
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/eurostartv.m3u8
 https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
 #EXTINF:0,Show Tv HD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
