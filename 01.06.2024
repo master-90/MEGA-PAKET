@@ -359,7 +359,7 @@ http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
 http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
 #EXTINF:0,Мужскоекино
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoekino/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
-#EXTINF:0,Kinosemya
+#EXTINF:0,Киносемъя
 http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
 #EXTINF:0,Киносвидание HD
 http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
