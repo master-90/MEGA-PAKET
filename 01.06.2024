@@ -406,7 +406,7 @@ http://mfe01.cliptv.az:80/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
 
 #EXTINF:-1,Видеокассета
-http://s1.iptvcinema.ru/pg_vhs/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+http://s1.iptvcinema.ru/olsib_vhs/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,FILMAX 1
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1,FILMAX 2
@@ -492,21 +492,16 @@ http://12.troya.one:34000/ch1424/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJi
 #EXTINF:-1,Bein Sports 1 HD (LOOK)
 http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/6817/index.m3u8
 #EXTINF:-0,Bein Sports 1 HD (vavoo)
-https://vavoo.to/play/2603371800/index.m3u8
-#EXTINF:-0,Bein Sports 1+ HD (vavoo2)
-https://mhzu4cmj63536bp.ngolpdkyoctjcddxshli469r.org/sunshine/ECShmIWBDI-IGwvmJ4aG2Vf7IuuM3thfNSkMMuCsjc1sH_s6pCcGYV-vP81rABXkpz1R4HQebw1cZJKVR_7oe0QAl6Ptuyo0EafI5MfRbvxBOJj4y_RSjPvP6nTLf7l1LzE8nVHJZskZySWfzz4bBKBTWP-E_QhJepH6rBfJBsM/hls/index.m3u8
-https://vavoo.to/play/980424600/index.m3u8
 
+#EXTINF:-0,Bein Sports 1+ HD (vavoo2)
 
 #EXTINF:-0,Bein Sports 1 HD (WEB-1)
 https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
 #EXTINF:-0,Bein Sports 1 HD (WEB-2)
-https://playhdnew5.buzz/yayinstar.m3u8
-#EXTINF:-0,Bein Sports 1 HD (WEB-3)
-https://jyayintv36.site/cdn/bein_sports_1_hd/main.m3u8
-https://playhdnew5.buzz/yayinzirve.m3u8
 
-https://testkardo.duckdns.org/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4MDQyNDYwMDQxODk1MDY1YjExYg==
+#EXTINF:-0,Bein Sports 1 HD (WEB-3)
+
+
 
 #EXTINF:-1,Bein Sports 2 HD
 http://12.troya.one:34000/ch1425/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJu-u_k_qCDYK1hTjB4PJ5cgwwf4m0cmG1NB3BuPtRBau
@@ -519,41 +514,24 @@ https://odin.cd9184d3e95e6.shop/3/chunk_hd.m3u8
 #EXTINF:-1,Bein Sports 4 HD
 http://12.troya.one:34000/ch1448/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJiw4SCu8SB3gZzwqEZiDzwdBon9K8WuCJq0Ox0YMV8SF
 #EXTINF:-0,Bein Sports 4 HD(WEB)
-https://mhzu4cmj63536bp.ngolpdkyoctjcddxshli469r.org/sunshine/3XV7EiCW4Y9Fz7EG4kH5nMk-dEisAak17zO8SJPufka-wj14qZ0XhVLx8er-TgP3NeRJ6RPyneRyK1Ph5vyuFZ-6ymVqMSAg2AKK0HOBFligbeCLXb0ctzWt-lwjkg6LOmgWFwSgzJyD8EpUuC19f5SycdwovHHsjqYHaiXF_vw/hls/index.m3u8
-#EXTINF:-1,TR: Bein Sports MAX 1 HD
+
+#EXTINF:-1,Bein Sports MAX 1 HD
 http://12.troya.one:34000/ch1449/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJqpDDSExi1oiu_2fsQQUaFKOrdaJz0Rw98a7a_4ZBxR5
 #EXTINF:-1,Bein Sports MAX 2 HD
 http://12.troya.one:34000/ch1450/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJt7iECRNb-5PpZHaQeozdedml2e3QRKjkX8bWOYstnRN
 
-
-
-
-#EXTINF:-1,TR: S Sport HD
+#EXTINF:-1,S Sport HD
 http://12.troya.one:34000/ch1397/mono.m3u8?token=mega2024.Cigh985fiyTt89bzVsPqpctmxQ_ENkTh2orIvQ807wveOvoNw_hV-6zGeyhXOI18
 #EXTINF:-1,S Sport HD (vavoo)
 https://vavoo.to/play/2155478922/index.m3u8
 
-#EXTINF:-1,TR: S Sport 2 HD
+#EXTINF:-1,S Sport 2 HD
 http://12.troya.one:34000/ch1397/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJkxtfhr4WDRjZuIoZngFD9XmXBUKW8v_GGHtWJ3e7XiU
 #EXTINF:0,S Spor 2 HD (vavoo)
-https://vavoo.to/play/2573123488/index.m3u8
-
-
-#EXTINF:-1,TR: Exxen 1 HD
-http://12.troya.one:34000/ch1994/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJjqfqOzrLb_du7mR-vrWQi1uhE4-eYHJHSd8TmbX3aRX
-#EXTINF:0,EXXEN 1 FULL HD (oyun vaxti aktiv)
-https://vavoo.to/play/1616609305/index.m3u8
-#EXTINF:-1,TR: Exxen 2 HD
-http://12.troya.one:34000/ch1995/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJjn1plvnLsn_983QhiGEpWuuNmtlDG8y2I4C3xlELPyJ
-#EXTINF:-1,TR: Exxen 3 HD
-http://12.troya.one:34000/ch1996/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJnvL8rQ7cDf-tCtFBlW4U7oa5ozMJlHpWbVhiUzXh2ZD
-#EXTINF:-1,TR: Exxen 4 HD
-http://12.troya.one:34000/ch1999/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJu1PJiPB4zaZP8mYUFeT_mgKPHyr1di2yXWK-sGJqji4
 
 #EXTINF:0,Sport 1 HD IL
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_1_IL/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:0,Sport 2 HD IL
-
 
 #EXTINF:-1,DIGI Sport 1 HD
 http://cdn.balelbrus.com/balancer/bigteisti8/08936904/bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==/index.m3u8
@@ -571,22 +549,32 @@ https://bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:0,TRT SPOR HD(rez)
 http://mfe.cliptv.az/dash/TRT_SPOR_HDggg00836_ER.ism/playlist.mpd
 #EXTINF:0,TRT SPOR YILDIZ
-https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
+http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 #EXTINF:0,a spor HD
 http://hw1.jemtv.com/app/ASporHD/chunks.m3u8
 #EXTINF:0,a spor HD (Yedek)
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
+
 
 #EXTINF:0,UDAR
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:0,Бокс ТВ
 http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/870/index.m3u8
 #EXTINF:0,MMA-TV
-http://fl-strm05.tvitech.com/MMA-TV.com/index.m3u8
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8?vsid=0rdjld7k9e89x9g
 #EXTINF:0, КХЛ
 http://38659.mooo.com/hls/sr7n489dab/45.m3u8
 
+#EXTINF:-1,Exxen 1 HD
+http://12.troya.one:34000/ch1994/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJjqfqOzrLb_du7mR-vrWQi1uhE4-eYHJHSd8TmbX3aRX
+#EXTINF:0,EXXEN 1 FULL HD (oyun vaxti aktiv)
+https://vavoo.to/play/1616609305/index.m3u8
+#EXTINF:-1,Exxen 2 HD
+http://12.troya.one:34000/ch1995/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJjn1plvnLsn_983QhiGEpWuuNmtlDG8y2I4C3xlELPyJ
+#EXTINF:-1,Exxen 3 HD
+http://12.troya.one:34000/ch1996/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJnvL8rQ7cDf-tCtFBlW4U7oa5ozMJlHpWbVhiUzXh2ZD
+#EXTINF:-1,Exxen 4 HD
+http://12.troya.one:34000/ch1999/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJu1PJiPB4zaZP8mYUFeT_mgKPHyr1di2yXWK-sGJqji4
 
 Turk ULUSAL
 
@@ -594,7 +582,7 @@ Turk ULUSAL
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 https://tv-TRT1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT 1 HD (YEDEK)
-http://185.32.44.154/TRT1HD/index.m3u8
+http://185.32.44.154/trt1/index.m3u8
 #EXTINF:0,NOW HD
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
@@ -634,7 +622,7 @@ http://185.32.44.154/Kanal7HD/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kanal7avrupa.m3u8
 
 #EXTINF:0,Beyaz Tv
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0,Teve 2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 #EXTINF:0,TV8 HD
@@ -654,20 +642,20 @@ http://116.202.238.88/TLC_TR/playlist.m3u8
 #EXTINF:0,DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0,TRT BELGESEL
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0,NTV HD
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:0,CNN TURK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/CNNTurk.m3u8
 #EXTINF:0,Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 https://mn-nl.mncdn.com/blutv_Haberturk2/live.m3u8
 #EXTINF:0,Haber Global
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:0,a haber
-https://gineu8.bozztv.com/gin-trn10/gt-ahaber/tracks-v1a1/mono.m3u8
+http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 #EXTINF:0, Super Turk Max
 http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
 
