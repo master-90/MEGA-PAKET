@@ -307,9 +307,9 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti13/viasat_history_SD/mono.m3u8?
 #EXTINF:0,Охота и рыбалка
 http://38659.mooo.com/hls/sr7n489dab/272.m3u8
 #EXTINF:0,Дикая рыбалка HD
-https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
+http://38659.mooo.com/high/sr7n489dab/422.m3u8
 #EXTINF:0,Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+http://38659.mooo.com/high/sr7n489dab/267.m3u8
 #EXTINF:0,Love Nature
 http://56ea54b1.otttv.pw/iptv/GUST29DYVBMQ7Q/6864/index.m3u8
 #EXTINF:0,Animal Planet
