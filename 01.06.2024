@@ -52,8 +52,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 http://mfe02.cliptv.az/dash/ARB_24_SDrfv011056_re.ism/playlist.mpd
 
 #EXTINF:0,Real TV HD
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/REAL%20Tv.m3u8
 #EXTINF:0,Real TV HD(REZ)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
 http://mfe02.cliptv.az:80/dash/Real_TV_SDdfg010856_re.ism/playlist.mpd
 
 #EXTINF:0,BAKU TV HD
@@ -119,7 +120,7 @@ https://qebeletv.ozelip.net:3918/stream/play.m3u8
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 
 #EXTINF:0,TV PLAY
-https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/tvplay
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/tvplay.m3u8
 
 #EXTINF:0, H Tv (Gəncə)
 https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
