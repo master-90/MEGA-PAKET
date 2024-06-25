@@ -656,19 +656,10 @@ https://mn-nl.mncdn.com/blutv_Haberturk2/live.m3u8
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:0,a haber
 http://hw1.jemtv.com/app/AHaber/chunks.m3u8
-#EXTINF:0, Super Turk Max
-http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
-
-
 #EXTINF:0,360 TV
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:0,YANSIMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
-#EXTINF:0,TELE ON
-
-#EXTINF:0,TEBER_STAR
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_tv/chunklist_w1747668148.m3u8
-
 #EXTINF:0,Turk Yesilcam 1
 http://gineu10.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Turk Yesilcam 2
