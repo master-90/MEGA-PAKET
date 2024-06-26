@@ -427,7 +427,6 @@ http://185.46.48.18/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,DIZI
 https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
 #EXTINF:0,Сапфир 
-http://188.113.190.15/182/tracks-v1a1/index.m3u8
 
 
 #EXTINF:0,Матч! HD
@@ -568,8 +567,7 @@ http://38659.mooo.com/hls/sr7n489dab/45.m3u8
 Turk ULUSAL
 
 #EXTINF:0,TRT 1 HD
-http://mfe.cliptv.az/dash/TRT_1_HDkod06036_re.ism/playlist.mpd
-https://tv-TRT1.medya.trt.com.tr/master.m3u8
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:0,TRT 1 HD (YEDEK)
 http://185.32.44.154/trt1/index.m3u8
 #EXTINF:0,NOW HD
