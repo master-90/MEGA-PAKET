@@ -26,8 +26,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 #EXTINF:0,Xezer TV SD (REZ)
 http://mfe.cliptv.az/dash/Xezer_SDuk.000656_re.ism/playlist.mpd
 
-#EXTINF:0,Ictimai (live1)
-https://node19.connect.az:9081/tv/live/playlist.m3u8
+#EXTINF:0,Ictimai (live)
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/ictimaitvlive.m3u8
 http://mfe02.cliptv.az/dash/Ictimai_HDrgn002056_re.ism/playlist.mpd
 http://149.255.154.198:80/ictimaitv/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
