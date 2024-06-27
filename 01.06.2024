@@ -12,7 +12,7 @@ http://ssh101-fl.bozztv.com/ssh101/mega022/index.m3u8
 #EXTINF:-1,AzTv HD
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1,AzTv (REZ)
-http://mfe02.cliptv.az:80/dash/AzTV_SD1qaz_re.ism/playlist.mpd
+http://mfe02.cliptv.az:80/dash/AzTV_SD1qaz111_re.ism/playlist.mpd
 
 #EXTINF:0,Azad Azerbaycan HD 
 http://185.32.44.154/azadazerbaycanhd/index.m3u8
