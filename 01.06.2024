@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,(MEGA_PAKET)-06.2024
+#EXTINF:0,(MEGA_PAKET)06.2024
 https://dl.dropbox.com/scl/fi/024elousp0chakjw0boh6/InfoBildiris.mp4?rlkey=rs2mwafchapejltio4ucy74sk&dl=0
 
 #EXTINF:0,Mega Tv
@@ -178,7 +178,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 http://mfe01.cliptv.az:80/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
 #EXTINF:0,Rossia RTR
-http://38659.mooo.com/hls/sr7n489dab/1506.m3u8
+http://146.59.93.251/0015/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Рoссия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
@@ -204,7 +204,7 @@ http://mfe01.cliptv.az:80/dash/Ren_SD0204opts.ism/playlist.mpd
 #EXTINF:0,CTC
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 #EXTINF:0,THT
-http://38659.mooo.com/hls/sr7n489dab/19.m3u8
+http://146.59.93.251/0002/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,TNT4
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:0,Домaшний HD
@@ -215,11 +215,11 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:0,Пятницa HD
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:0,Субботa!
-http://38659.mooo.com/hls/sr7n489dab/474.m3u8
+http://146.59.93.251/0029/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Че
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:0,Перец International
-http://38659.mooo.com/hls/sr7n489dab/1097.m3u8
+
 #EXTINF:0,Ю ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:0,Mir
@@ -241,7 +241,7 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti8/POBEDA/mono.m3u8?token=bWVnYT
 #EXTINF:0,Пoбеда HD (REZ)
 http://109.205.166.68/server123/tlc/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:0, ДенПoбеда
-http://38659.mooo.com/hls/sr7n489dab/907.m3u8
+http://146.59.93.251/0177/video.m3u8?token=BABAC523B3B5
 https://strm.yandex.ru/kal/den_pobedy/den_pobedy0.m3u8
 #EXTINF:0,Золотая коллекция
 http://bal.pst.streaming-elbrus.su:8880/bigteisti2/mosfilmhd/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
@@ -301,17 +301,17 @@ http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:0,Nat Geo Wild HD
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:0, Viju Nature HD
-http://38659.mooo.com/hls/sr7n489dab/319.m3u8
+http://146.59.93.251/0753/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Viasat History HD
 http://bal.pst.streaming-elbrus.su:8880/bigteisti13/viasat_history_SD/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
 
 #EXTINF:0,Охота и рыбалка
-http://38659.mooo.com/hls/sr7n489dab/272.m3u8
+http://146.59.93.251/0832/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Дикая рыбалка HD
-http://38659.mooo.com/high/sr7n489dab/422.m3u8
+http://146.59.93.251/0834/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Диалоги о рыбалке
-http://38659.mooo.com/high/sr7n489dab/267.m3u8
+http://146.59.93.251/0834/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Love Nature
 http://56ea54b1.otttv.pw/iptv/GUST29DYVBMQ7Q/6864/index.m3u8
 #EXTINF:0,Animal Planet
@@ -450,17 +450,17 @@ http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=b92e505ee8a30dc40ddf8c
 #EXTINF:0,Матч! Футбол 1 HD 
 http://mfe01.cliptv.az:80/dash/Match_Football_1_HD_fghgyg44515.ism/playlist.mpd
 #EXTINF:0,Матч! Футбол 1 HD (rez)
-http://38659.mooo.com/hls/sr7n489dab/981.m3u8
+http://146.59.93.251/0457/video.m3u8?token=BABAC523B3B5
 http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
 #EXTINF:0,Матч! Футбол 2 HD
 http://mfe02.cliptv.az:80/dash/Match_Football_2_5HDccfvgbh51.ism/playlist.mpd
 #EXTINF:0,Матч! Футбол 2 HD (rez)
-http://38659.mooo.com/hls/sr7n489dab/982.m3u8
+http://146.59.93.251/0458/video.m3u8?token=BABAC523B3B5
 http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:0,Матч! Футбол 3 HD
 http://mfe02.cliptv.az:80/dash/Match_Football_3_5HDyhnbgt61.ism/playlist.mpd
 #EXTINF:0,Матч! Футбол 3 SD (rez)
-http://38659.mooo.com/hls/sr7n489dab/983.m3u8
+http://146.59.93.251/0459/video.m3u8?token=BABAC523B3B5
 
 #EXTINF:0,SETANTA SPORTS 1 HD(az)
 https://erlyvideo.beeonline.az/SetantaSports/video.m3u8
@@ -558,7 +558,7 @@ http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/870/index.m3u8
 #EXTINF:0,MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8?vsid=0rdjld7k9e89x9g
 #EXTINF:0, КХЛ
-http://38659.mooo.com/hls/sr7n489dab/45.m3u8
+http://146.59.93.251/0469/video.m3u8?token=BABAC523B3B5
 
 Turk ULUSAL
 
