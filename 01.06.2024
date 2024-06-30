@@ -755,12 +755,12 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
 #EXTINF:0,**MegA Kino-1**KURTLAR VADISI (LIVE)
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kurtlarvadisi.m3u8
-#EXTINF:0,**MegA Kino-2**Kırık Kalpler Evi (2024) NETFLIX
-http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/388242.mkv
-#EXTINF:0,**MegA Kino-3**ÖLÜLER VADISI (2022) NETFLIX 
-http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/287823.mkv
-#EXTINF:0,**MegA Kino-4**Kutsal Damacana 4 (2023) NETFLIX
-http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/327618.mkv
+#EXTINF:0,**MegA Kino-2**Dört Psikopat
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8
+#EXTINF:0,**MegA Kino-3**Ölüm Kalım Evi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8
+#EXTINF:0,**MegA Kino-4**Dehşet Gecesi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
 
 #EXTINF:-1,Skycam Action
 http://s1.iptvcinema.ru/skycam_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
