@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,(MEGA_PAKET)06.2024
+#EXTINF:0,(MEGA_PAKET)
 https://dl.dropbox.com/scl/fi/024elousp0chakjw0boh6/InfoBildiris.mp4?rlkey=rs2mwafchapejltio4ucy74sk&dl=0
 
 #EXTINF:0,Mega Tv
@@ -165,6 +165,7 @@ http://213.239.195.222:80/azerbaijan/vostok/chunks.m3u8
 http://mfe02.cliptv.az/dash/ARB_Gunesh_SDthd013056_re.ism/playlist.mpd
 
 #EXTINF:0, Пeрвый канал HD
+http://135.181.115.81:8000/play/a003/index.m3u8?token=livetv
 http://185.32.44.154/PerviyHD/index.m3u8
 #EXTINF:0, Пeрвый канал SD
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
@@ -444,7 +445,7 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8?vsi
 #EXTINF:0,Матч! Боец
 http://mfe01.cliptv.az/dash/Matc_Boec_SD12sd56b.ism/playlist.mpd
 #EXTINF:0, Матч! Боец 2
-http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/9159/index.m3u8
+http://146.59.93.251/0453/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Okko Спорт HD
 http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:0,Матч! Футбол 1 HD 
@@ -471,8 +472,10 @@ http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/272/index.m3u8
 http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/270/index.m3u8
 
 #EXTINF:0,SETANTA SPORTS 1 HD
+http://146.59.93.251/0502/video.m3u8?token=BABAC523B3B5
 http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Setanta_Sports_1/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0,SETANTA SPORTS 2 HD
+http://146.59.93.251/0503/video.m3u8?token=BABAC523B3B5
 http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Setanta_Sports_2/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
 #EXTINF:0,Телеканал Футбол HD
@@ -516,13 +519,9 @@ http://12.troya.one:34000/ch1449/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJq
 http://12.troya.one:34000/ch1450/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJt7iECRNb-5PpZHaQeozdedml2e3QRKjkX8bWOYstnRN
 
 #EXTINF:-1,S Sport HD
-http://12.troya.one:34000/ch1397/mono.m3u8?token=mega2024.Cigh985fiyTt89bzVsPqpctmxQ_ENkTh2orIvQ807wveOvoNw_hV-6zGeyhXOI18
-#EXTINF:-1,S Sport HD (vavoo)
-https://vavoo.to/play/2155478922/index.m3u8
-
+http://146.59.93.251/0977/video.m3u8?token=BABAC523B3B5
 #EXTINF:-1,S Sport 2 HD
-http://12.troya.one:34000/ch1397/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJkxtfhr4WDRjZuIoZngFD9XmXBUKW8v_GGHtWJ3e7XiU
-#EXTINF:0,S Spor 2 HD (vavoo)
+http://146.59.93.251/0978/video.m3u8?token=BABAC523B3B5
 
 #EXTINF:0,Sport 1 HD IL
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_1_IL/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
@@ -564,8 +563,8 @@ Turk ULUSAL
 
 #EXTINF:0,TRT 1 HD
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:0,TRT 1 HD (YEDEK)
-http://185.32.44.154/trt1/index.m3u8
+#EXTINF:0,TRT 1 HD (org)
+https://tv-trt1-dai.medya.trt.com.tr/master_720p.m3u8
 #EXTINF:0,NOW HD
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
@@ -578,6 +577,7 @@ https://bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
 #EXTINF:0,A2 HD
 http://185.32.44.154/a2tv/index.m3u8
 #EXTINF:0,KANAL D HD
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/kanal%20D.m3u8
 http://185.32.44.154/KanalDHD/index.m3u8
 #EXTINF:0,KANAL D Full HD (1080)
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
@@ -593,8 +593,7 @@ https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
 https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/SHOW%20TV.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:0,ShowTurk
-https://bozztv.com/inim03/live1/showtvturk/playlist.m3u8
-http://135.125.234.9:8081/showturk/index.m3u8
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/SHOW%20TURK.m3u8
 #EXTINF:0,Showmax
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
 #EXTINF:0,KANAL 7
@@ -611,6 +610,7 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 #EXTINF:0,TV8 HD
 http://mfe.cliptv.az/dash/TV_8_HDpjg500256_re.ism/playlist.mpd
 #EXTINF:0,TV8 HD (REZ)
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 http://185.32.44.154/tv8hd/index.m3u8
 
 #EXTINF:0,TV8.5
@@ -653,16 +653,14 @@ http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 https://tivi44.ozelip.com:3463/stream/play.m3u8
 #EXTINF:0,SABAN TV (YOUTUBE)
 https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
-https://sabantv.megagence112290.workers.dev/stream/@arzufilm1964/master.m3u8
 #EXTINF:0,Kemal Sunal (Vavoo)
 https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
-https://vavoo.to/play/662074059/index.m3u8
 #EXTINF:0,Tv4 Yesilcam
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0,Afyon Turk Yesilcam
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:0,Sinema Aksion HD
-http://12.troya.one:34000/ch1459/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJvISCyFCCtRjbssVx8_UQYhjHC0DKD_YZJ6m-INurW6F
+
 #EXTINF:0,360 HD
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,Duzgun tv
