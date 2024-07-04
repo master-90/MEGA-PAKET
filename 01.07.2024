@@ -643,24 +643,24 @@ http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:0,YANSIMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
-#EXTINF:0,Turk Yesilcam 1
-http://gineu10.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
-#EXTINF:0,Turk Yesilcam 2
-http://gineu10.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
-#EXTINF:0,Turk Yesilcam 3
-http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
+#EXTINF:0,TBRT ON
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_ON/chunklist_w273134753.m3u8
+#EXTINF:0, TBRT STAR1
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
+#EXTINF:0, TBRT3
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_STAR3/chunklist_w722466183.m3u8
+#EXTINF:0,TBRT4 
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_TEZENE_TV/playlist.m3u8
 #EXTINF:0,Saban Tv 
 https://tivi44.ozelip.com:3463/stream/play.m3u8
 #EXTINF:0,SABAN TV (YOUTUBE)
 https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
-#EXTINF:0,Kemal Sunal (Vavoo)
-https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
+#EXTINF:0,teleontv
+https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Tv4 Yesilcam
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0,Afyon Turk Yesilcam
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-#EXTINF:0,Sinema Aksion HD
-
 #EXTINF:0,360 HD
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,Duzgun tv
@@ -751,8 +751,8 @@ http://mfe.cliptv.az:80/dash/Minika_Cocuk_SDkjh00796_er.ism/playlist.mpd
 #EXTINF:0,Cartoon Network 
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
-#EXTINF:0,**MegA Kino-1**KURTLAR VADISI (LIVE)
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kurtlarvadisi.m3u8
+#EXTINF:0,**MegA Kino-1**KURTLAR VADISI PUSU
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/KURTLAR%20VADISI%20PUSU.m3u8
 #EXTINF:0,**MegA Kino-2**Dört Psikopat
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8
 #EXTINF:0,**MegA Kino-3**Ölüm Kalım Evi
