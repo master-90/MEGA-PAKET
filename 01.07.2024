@@ -565,8 +565,8 @@ Turk ULUSAL
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:0,TRT 1 HD (org)
 https://tv-trt1-dai.medya.trt.com.tr/master_720p.m3u8
-#EXTINF:0,TRT 1 HD (VAVO)
-https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/TRT1-VAVO.m3u8
+#EXTINF:0,TRT 1 HD (restream)
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/TRT1-restream.m3u8
 #EXTINF:0,NOW HD
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
