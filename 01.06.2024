@@ -651,14 +651,14 @@ http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:0,YANSIMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
-#EXTINF:0,TBRT ON
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_ON/chunklist_w273134753.m3u8
-#EXTINF:0, TBRT STAR1
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
-#EXTINF:0, TBRT3
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_STAR3/chunklist_w722466183.m3u8
+#EXTINF:0,TBRT STAR1
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt1/chunklist_w158161199.m3u8
+#EXTINF:0,TBRT STAR2
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt2/chunklist_w1691650456.m3u8
+#EXTINF:0,TBRT3
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt3/chunklist_w1473822189.m3u8
 #EXTINF:0,TBRT4 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_TEZENE_TV/playlist.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT4/chunklist_w1741802888.m3u8
 #EXTINF:0,Saban Tv 
 https://tivi44.ozelip.com:3463/stream/play.m3u8
 #EXTINF:0,SABAN TV (YOUTUBE)
