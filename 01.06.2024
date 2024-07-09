@@ -54,10 +54,11 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 http://mfe02.cliptv.az/dash/ARB_24_SDrfv011056_re.ism/playlist.mpd
 
 #EXTINF:0,Real TV HD
+http://mfe02.cliptv.az:80/dash/Real_TV_SDdfg010856_re.ism/playlist.mpd
 https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/REAL%20Tv.m3u8
 #EXTINF:0,Real TV HD(REZ)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
-http://mfe02.cliptv.az:80/dash/Real_TV_SDdfg010856_re.ism/playlist.mpd
+
 
 #EXTINF:0,BAKU TV HD
 https://rtmp.baku.tv/streams/bakutv.m3u8
@@ -421,7 +422,7 @@ http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-0,Блокбастер HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/bbaster/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:-1,Star Family
-http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/6326/index.m3u8
+http://146.59.93.251/0191/video.m3u8?token=BABAC523B3B5
 
 
 #EXTINF:0,CIMEMA
@@ -448,8 +449,10 @@ http://mfe01.cliptv.az/dash/Matc_Boec_SD12sd56b.ism/playlist.mpd
 http://146.59.93.251/0453/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Okko Спорт HD
 http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
+
 #EXTINF:0,Матч! Футбол 1 HD 
-http://mfe01.cliptv.az:80/dash/Match_Football_1_HD_fghgyg44515.ism/playlist.mpd
+http://mfe01.cliptv.az:80/dash/Match_Football_1_HD_111.ism/playlist.mpd
 #EXTINF:0,Матч! Футбол 1 HD (rez)
 http://146.59.93.251/0457/video.m3u8?token=BABAC523B3B5
 http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
@@ -467,9 +470,9 @@ http://146.59.93.251/0459/video.m3u8?token=BABAC523B3B5
 https://erlyvideo.beeonline.az/SetantaSports/video.m3u8
 
 #EXTINF:0,SETANTA SPORTS 1 HD(LOOK)
-http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/272/index.m3u8
+
 #EXTINF:0,SETANTA SPORTS 2 HD(LOOK)
-http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/270/index.m3u8
+
 
 #EXTINF:0,SETANTA SPORTS 1 HD
 http://146.59.93.251/0502/video.m3u8?token=BABAC523B3B5
@@ -553,7 +556,7 @@ https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 #EXTINF:0,UDAR
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:0,Бокс ТВ
-http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/870/index.m3u8
+http://146.59.93.251/0506/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,MMA-TV
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8?vsid=0rdjld7k9e89x9g
 #EXTINF:0, КХЛ
@@ -562,14 +565,17 @@ http://146.59.93.251/0469/video.m3u8?token=BABAC523B3B5
 Turk ULUSAL
 
 #EXTINF:0,TRT 1 HD
-https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+
 #EXTINF:0,TRT 1 HD (org)
+https://dvrfl05.tulix.tv/gin-trt1eu/index.m3u8
 https://tv-trt1-dai.medya.trt.com.tr/master_720p.m3u8
 #EXTINF:0,TRT 1 HD (restream)
 https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/TRT1-restream.m3u8
+https://hw1.jemtv.com/app/trt1/playlist.m3u8
 #EXTINF:0,NOW HD
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/nowtv.m3u8
 #EXTINF:0,ATV HD
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:0,ATV HD (yedek)
@@ -603,7 +609,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:0,KANAL 7 (REZ)
 http://185.32.44.154/Kanal7HD/index.m3u8
 #EXTINF:0,KANAL 7 Avrupa
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kanal7avrupa.m3u8
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/kanal7avrupa.m3u8
 
 #EXTINF:0,Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
