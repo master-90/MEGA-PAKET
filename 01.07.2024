@@ -244,7 +244,7 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti8/POBEDA/mono.m3u8?token=bWVnYT
 #EXTINF:0,Пoбеда HD (REZ)
 http://109.205.166.68/server123/tlc/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:0, ДенПoбеда
-http://146.59.93.251/0177/video.m3u8?token=BABAC523B3B5
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/denpobeda.m3u8
 https://strm.yandex.ru/kal/den_pobedy/den_pobedy0.m3u8
 #EXTINF:0,Золотая коллекция
 http://bal.pst.streaming-elbrus.su:8880/bigteisti2/mosfilmhd/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
