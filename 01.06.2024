@@ -1,21 +1,22 @@
 #EXTM3U
-#EXTINF:0,(MEGA_PAKET)06.2024
+#EXTINF:0,(MEGA_PAKET)06.24
 https://dl.dropbox.com/scl/fi/024elousp0chakjw0boh6/InfoBildiris.mp4?rlkey=rs2mwafchapejltio4ucy74sk&dl=0
 
-#EXTINF:0,Mega Tv
-http://s1.iptvcinema.ru/kbc_newfilm/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+#EXTINF:0,Mega Tv AZERBAIJAN
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/megatv.m3u8
 https://playlist.nuum.ru/live/252753/tracks-v1a1/mono.m3u8
 http://ssh101-fl.bozztv.com/ssh101/mega022/index.m3u8
 
 
 
 #EXTINF:-1,AzTv HD
+http://flussonic.izone.az:80/aztv/index.m3u8
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1,AzTv (REZ)
 http://mfe02.cliptv.az:80/dash/AzTV_SD1qaz111_re.ism/playlist.mpd
 
 #EXTINF:0,Azad Azerbaycan HD 
-http://185.32.44.154/azadazerbaycanhd/index.m3u8
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/azadtv.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
 #EXTINF:0,Azad Azerbaycan HD REZ
 http://mfe02.cliptv.az:80/dash/ATV_SDthm07005_re.ism/playlist.mpd
@@ -97,7 +98,7 @@ http://185.32.44.154/Kanal_S/index.m3u8
 http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
 
 #EXTINF:0,CTV
-https://ctvmedya.interweb.com.tr:3673/multi_web/play_720.m3u8
+https://spectrectvmedya.interweb.com.tr:3923/stream/play.m3u8
 
 #EXTINF:0,Sehiyye Tv
 http://65.21.85.175:8000/play/a02v/index.m3u8?token=livetv
@@ -131,10 +132,10 @@ https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
 
 
 #EXTINF:0,KANAL 65
-https://kanal65LiveTv.interweb.com.tr:3669/hybrid/play.m3u8
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 
-#EXTINF:0, CTV MEDIA
-
+#EXTINF:0, ARI TV 
+http://cdn-arimusicbaku.yayin.com.tr/arimusicbaku/arimusicbaku/playlist.m3u8
 
 #EXTINF:0,Könül Tv (Test)
 http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
@@ -243,8 +244,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://bal.pst.streaming-elbrus.su:8880/bigteisti8/POBEDA/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0,Пoбеда HD (REZ)
 http://109.205.166.68/server123/tlc/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
-#EXTINF:0, ДенПoбеда
-http://146.59.93.251/0177/video.m3u8?token=BABAC523B3B5.m3u8
+#EXTINF:0, Ден Пoбеда
+http://146.59.93.251/0177/video.m3u8?token=BABAC523B3B5
 https://strm.yandex.ru/kal/den_pobedy/den_pobedy0.m3u8
 #EXTINF:0,Золотая коллекция
 http://bal.pst.streaming-elbrus.su:8880/bigteisti2/mosfilmhd/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
@@ -363,6 +364,7 @@ http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
 #EXTINF:0,Кинохит
 http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
 #EXTINF:0,Мужскоекино
+http://flussonic.izone.az:80/mkino/index.m3u8
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoekino/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:0,Киносемья
 http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
@@ -449,7 +451,7 @@ http://mfe01.cliptv.az/dash/Matc_Boec_SD12sd56b.ism/playlist.mpd
 #EXTINF:0, Матч! Боец 2
 http://146.59.93.251/0453/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Okko Спорт HD
-http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
 
 
 #EXTINF:0,Матч! Футбол 1 HD 
@@ -574,6 +576,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master_720p.m3u8
 https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/TRT1-restream.m3u8
 https://hw1.jemtv.com/app/trt1/playlist.m3u8
 #EXTINF:0,NOW HD
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/nowtv.m3u8
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/nowtv.m3u8
@@ -652,11 +655,11 @@ http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:0,YANSIMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
-#EXTINF:0,TBRT STAR1
+#EXTINF:0, TBRT STAR1
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt1/chunklist_w158161199.m3u8
-#EXTINF:0,TBRT STAR2
+#EXTINF:0, TBRT STAR2
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt2/chunklist_w1691650456.m3u8
-#EXTINF:0,TBRT3
+#EXTINF:0, TBRT3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt3/chunklist_w1473822189.m3u8
 #EXTINF:0,TBRT4 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT4/chunklist_w1741802888.m3u8
@@ -821,3 +824,5 @@ http://s1.iptvcinema.ru/magic_comedy/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1
 http://s1.iptvcinema.ru/magic_horror/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,Magic Adventure
 http://s1.iptvcinema.ru/magic_adventure/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+
+#EXTINF:-1,multivariant test
