@@ -87,7 +87,7 @@ https://bozztv.com/dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 http://mfe01.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 
 #EXTINF:0,CBC Azerbaijan
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/cbc_azerbaijan.m3u8
 http://edge02.odtv.az/o1/cbc/playlist.m3u8
 
 #EXTINF:0,Kepez (Gence)
@@ -283,7 +283,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:0,HDL
-https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8?vsid=l1397selggt6rdu
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/HDL/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:0,TLC HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/TLC/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 
@@ -391,9 +391,9 @@ https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:0,Кошмар HD
 http://hlss.goodgame.ru/hls/204709.m3u8
 #EXTINF:-1,Bollywood
-https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1,Hollywood HD
-https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Hollywood_HD/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:-1,BCU ACTION
 http://s1.iptvcinema.ru/bcu_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:0,YOSSO NEW KINO
@@ -432,7 +432,7 @@ http://146.59.93.251/0191/video.m3u8?token=BABAC523B3B5
 http://185.46.48.18/cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,DIZI
-https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/dizi/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:0,Сапфир 
 
 
@@ -561,6 +561,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:0,Бокс ТВ
 http://146.59.93.251/0506/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,MMA-TV
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/m1global/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8?vsid=0rdjld7k9e89x9g
 #EXTINF:0, КХЛ
 http://146.59.93.251/0469/video.m3u8?token=BABAC523B3B5
@@ -772,46 +773,37 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8
 #EXTINF:0,**MegA Kino-4**Dehşet Gecesi
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
 
-#EXTINF:-1,Skycam Action
-http://s1.iptvcinema.ru/skycam_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Skycam Rusfilms
-http://s1.iptvcinema.ru/skycam_rusfilms/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Skycam Doc
-http://s1.iptvcinema.ru/skycam_doc/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+#EXTINF:-1,Magic Action
+http://s1.iptvcinema.ru/magic_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+#EXTINF:-1,Magic Thriller
+http://s1.iptvcinema.ru/magic_thriller/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+#EXTINF:-1,Magic Galaxy
+http://s1.iptvcinema.ru/magic_galaxy/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 
 #EXTINF:-1,VeleS Киноплёнка
 
 #EXTINF:-1,VeleS 60FPS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_60FPS/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_60/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Киносерия
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOSERIES/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_kinoserya/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Premiere
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_PREMIERE/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_premiere/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Страшное
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_STRASHNOE/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_strashnoe/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS СССР
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_USSSR/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_ussr/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Movie Hits
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MOVIE_HITS/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
-#EXTINF:-1,VeleS Магнитофон
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MAGNITOFON/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
-#EXTINF:-1,VeleS Kids
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KIDS/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_movie/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Криминальный
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_CRIMINAL/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
-#EXTINF:-1,VeleS С Новым годом!
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936906/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_criminal/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Комедия
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936901/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
-#EXTINF:-1,VeleS Аниме
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936904/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_comedy/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Семейный
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936909/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_family/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Вестерн
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936910/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+http://s1.iptvcinema.ru/veles_western/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 #EXTINF:-1,VeleS Наше Кино
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936911/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
-
+http://s1.iptvcinema.ru/veles_nashekino/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
 
 
 #EXTINF:-1,Magic Action
