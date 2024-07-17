@@ -87,8 +87,7 @@ https://bozztv.com/dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 http://mfe01.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 
 #EXTINF:0,CBC Azerbaijan
-https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/cbc_azerbaijan.m3u8
-http://edge02.odtv.az/o1/cbc/playlist.m3u8
+http://149.255.154.198:80/cbc/index.m3u8
 
 #EXTINF:0,Kepez (Gence)
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
@@ -96,6 +95,9 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0,Kanal S (Şəki)
 http://185.32.44.154/Kanal_S/index.m3u8
 http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+
+#EXTINF:0,ELTV (Yevlax)
+http://85.132.53.162:1935/live/eltv/chunklist_w1605359810.m3u8
 
 #EXTINF:0,CTV
 https://spectrectvmedya.interweb.com.tr:3923/stream/play.m3u8
@@ -135,7 +137,7 @@ https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 
 #EXTINF:0, ARI TV 
-http://cdn-arimusicbaku.yayin.com.tr/arimusicbaku/arimusicbaku/playlist.m3u8
+http://arimusic77.ozelip.com:26546/arimusic/arimusic/playlist.m3u8
 
 #EXTINF:0,Könül Tv (Test)
 http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
@@ -191,6 +193,7 @@ https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTINF:0,HTB
 http://bal.pst.streaming-elbrus.su:8880/bigteisti8/ntvhd/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0,HTB HD
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 https://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,HTB Xit
 https://cdn2.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -376,6 +379,8 @@ http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
 #EXTINF:0,Индийское Кино
 http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:0,Индийское Кино
+http://flussonic.izone.az:80/indiskoekino/index.m3u8
 #EXTINF:0,Индия
 http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:0,Киноужас
@@ -614,7 +619,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:0,KANAL 7 (REZ)
 http://185.32.44.154/Kanal7HD/index.m3u8
 #EXTINF:0,KANAL 7 Avrupa
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/kanal7avrupa.m3u8
+https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/kanal7avr.m3u8
 
 #EXTINF:0,Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -696,8 +701,8 @@ https://play1.blutv.com/blutv_play1/live.m3u8
 https://play2.blutv.com/blutv_play2/live.m3u8
 #EXTINF:0,Zahra TV az (dini)
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:0,Kudus Tv (dini)
-
+#EXTINF:0,IMAMHUSSEIN-3
+https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/imamhussein3.m3u8
 #EXTINF:0,Hadi Tv (azeri dini)
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 #EXTINF:0,Kanal 12 (dini)
