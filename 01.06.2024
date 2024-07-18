@@ -4,6 +4,7 @@ https://dl.dropbox.com/scl/fi/024elousp0chakjw0boh6/InfoBildiris.mp4?rlkey=rs2mw
 
 #EXTINF:0,Mega Tv AZERBAIJAN
 https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/megatv.m3u8
+http://iptv.prosto.tv:7000/ch328/video.m3u8
 https://playlist.nuum.ru/live/252753/tracks-v1a1/mono.m3u8
 http://ssh101-fl.bozztv.com/ssh101/mega022/index.m3u8
 
@@ -132,6 +133,8 @@ https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/tvplay.m3u8
 #EXTINF:0, H Tv (Gəncə)
 https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
 
+#EXTINF:0, Şuşa Tv
+https://susatv.interweb.com.tr:3432/stream/play.m3u8
 
 #EXTINF:0,KANAL 65
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
@@ -276,7 +279,7 @@ http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:0,Евроновости
 http://mfe01.cliptv.az/dash/Evronovosti_SDpoz269.ism/playlist.mpd
 #EXTINF:0, Дoждь 
-http://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b1628000.m3u8
+https://cdn10g-pl.ott.pink:444/catena-17-7319-streamer-dozhdsd/index.m3u8?token=94450098895765784220366841698509
 
 #EXTINF:0,BBC WORLD NEWS
 https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
@@ -320,11 +323,11 @@ http://146.59.93.251/0834/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Диалоги о рыбалке
 http://146.59.93.251/0834/video.m3u8?token=BABAC523B3B5
 #EXTINF:0,Love Nature
-http://56ea54b1.otttv.pw/iptv/GUST29DYVBMQ7Q/6864/index.m3u8
+
 #EXTINF:0,Animal Planet
 http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Animal_Planet/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0,Моя Планета HD
-https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8?vsid=q7fltz6m8afqluz
+http://188.113.190.15/219/video.m3u8
 #EXTINF:0,
 
 #EXTINF:0,ГЛАЗАМИ ТУРИСТА
@@ -559,7 +562,8 @@ http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 http://hw1.jemtv.com/app/ASporHD/chunks.m3u8
 #EXTINF:0,a spor HD (Yedek)
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
-
+#EXTINF:0,FB TV
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/FB%20TV.m3u8
 
 #EXTINF:0,UDAR
 https://strm.yandex.ru/kal/udar/udar0.m3u8
@@ -662,23 +666,21 @@ https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:0,YANSIMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:0, TBRT STAR1
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt1/chunklist_w158161199.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_S1/chunklist_w1260457035.m3u8
 #EXTINF:0, TBRT STAR2
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt2/chunklist_w1691650456.m3u8
 #EXTINF:0, TBRT3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt3/chunklist_w1473822189.m3u8
 #EXTINF:0,TBRT4 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT4/chunklist_w1741802888.m3u8
-#EXTINF:0,Saban Tv 
-https://tivi44.ozelip.com:3463/stream/play.m3u8
-#EXTINF:0,SABAN TV (YOUTUBE)
-https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
+#EXTINF:0,Yesilcam 1
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/ArzuFilim.m3u8
+#EXTINF:0,Kemal Sunal Tv (YOUTUBE)
+https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/Kemal%20Sunal.m3u8
 #EXTINF:0,teleontv
-https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,Tv4 Yesilcam
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0,Afyon Turk Yesilcam
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:0,360 HD
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0,Duzgun tv
