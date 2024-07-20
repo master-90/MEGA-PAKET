@@ -57,9 +57,9 @@ http://mfe02.cliptv.az/dash/ARB_24_SDrfv011056_re.ism/playlist.mpd
 
 #EXTINF:0,Real TV HD
 http://mfe02.cliptv.az:80/dash/Real_TV_SDdfg010856_re.ism/playlist.mpd
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/REAL%20Tv.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/REAL%20Tv.m3u8
 #EXTINF:0,Real TV HD(REZ)
-https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/realtv.m3u8
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/real-tv.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
 
 
@@ -563,7 +563,7 @@ http://hw1.jemtv.com/app/ASporHD/chunks.m3u8
 #EXTINF:0,a spor HD (Yedek)
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 #EXTINF:0,FB TV
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/FB%20TV.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/FB%20TV.m3u8
 
 #EXTINF:0,UDAR
 https://strm.yandex.ru/kal/udar/udar0.m3u8
@@ -599,9 +599,10 @@ https://bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8
 #EXTINF:0,A2 HD
 http://185.32.44.154/a2tv/index.m3u8
 #EXTINF:0,KANAL D HD
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/kanal%20D.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/kanal%20D.m3u8
 http://185.32.44.154/KanalDHD/index.m3u8
 #EXTINF:0,KANAL D Full HD (1080)
+http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:0,EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -609,13 +610,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://startv.blutv.com/blutv_startv_live/live.m3u8
 #EXTINF:0,EUROSTAR
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/eurostartv.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/eurostartv.m3u8
 https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
 #EXTINF:0,Show Tv HD
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/SHOW%20TV.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/SHOW%20TV.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:0,ShowTurk
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/SHOW%20TURK.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/SHOW%20TURK.m3u8
 #EXTINF:0,Showmax
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
 #EXTINF:0,KANAL 7
@@ -653,7 +654,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0,NTV HD
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:0,CNN TURK
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/CNNTurk.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/CNNTurk.m3u8
 #EXTINF:0,Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 https://mn-nl.mncdn.com/blutv_Haberturk2/live.m3u8
@@ -674,9 +675,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt3/chunklist_w1473822189.m
 #EXTINF:0,TBRT4 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT4/chunklist_w1741802888.m3u8
 #EXTINF:0,Yesilcam 1
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/ArzuFilim.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/ArzuFilim.m3u8
 #EXTINF:0,Kemal Sunal Tv (YOUTUBE)
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/Kemal%20Sunal.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/Kemal%20Sunal.m3u8
 #EXTINF:0,teleontv
 
 #EXTINF:0,Tv4 Yesilcam
@@ -729,7 +730,7 @@ https://new.cache-stream.workers.dev/video/UCoJqwTgi_lZpqKKai2na7kQ/live.m3u8
 #EXTINF:0,TRT Muzik
 https://tv-TRTMuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0,DAG-MUSIC (DAGESTAN)
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/dag-music.m3u8
+https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/dag-music.m3u8
 #EXTINF:0,THT Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 https://bl.uma.media/live/619345/HLS/4614144_3/1/1/playlist.m3u8
@@ -771,14 +772,14 @@ http://mfe.cliptv.az:80/dash/Minika_Cocuk_SDkjh00796_er.ism/playlist.mpd
 #EXTINF:0,Cartoon Network 
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
-#EXTINF:0,**MegA Kino-1**KURTLAR VADISI PUSU
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/KURTLAR%20VADISI%20PUSU.m3u8
-#EXTINF:0,**MegA Kino-2**Dört Psikopat
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8
-#EXTINF:0,**MegA Kino-3**Ölüm Kalım Evi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8
-#EXTINF:0,**MegA Kino-4**Dehşet Gecesi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
+#EXTINF:0,**MegA Kino-1**(3391 KILOMETRE-2024)
+https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-1.m3u8
+#EXTINF:0,**MegA Kino-2**(KNOX GOES AWAY-2024)
+https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-2.m3u8
+#EXTINF:0,**MegA Kino-3**(Attraction 2: İstila 2020)
+https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-3.m3u8
+#EXTINF:0,**MegA Kino-4**(Triple Threat 2019)
+https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-4.m3u8
 
 #EXTINF:-1,Magic Action
 http://s1.iptvcinema.ru/magic_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
