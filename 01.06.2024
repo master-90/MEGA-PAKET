@@ -397,7 +397,7 @@ https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:0,Кошмар HD
 http://hlss.goodgame.ru/hls/204709.m3u8
 #EXTINF:-1,Bollywood
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+http://146.59.93.251/0130/video.m3u8?token=BABAC523B3B5
 #EXTINF:-1,Hollywood HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Hollywood_HD/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:-1,BCU ACTION
