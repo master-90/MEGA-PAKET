@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0,(MEGA_PAKET)06.24
+#EXTINF:0,(MEGA_PAKET)
 https://dl.dropbox.com/scl/fi/024elousp0chakjw0boh6/InfoBildiris.mp4?rlkey=rs2mwafchapejltio4ucy74sk&dl=0
 
 #EXTINF:0,Mega Tv AZERBAIJAN
-https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/megatv.m3u8
+https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megatv.m3u8
 http://iptv.prosto.tv:7000/ch328/video.m3u8
-https://playlist.nuum.ru/live/252753/tracks-v1a1/mono.m3u8
+
 http://ssh101-fl.bozztv.com/ssh101/mega022/index.m3u8
 
 
@@ -76,7 +76,7 @@ http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 #EXTINF:0,Idman Azerbaycan HD
 http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
 #EXTINF:0,Idman Azerbaycan HD (REZ)
-http://mfe.cliptv.az/dash/Idman_HDthd140056_re.ism/playlist.mpd
+http://mfe.cliptv.az/dash/Idman_HD111.ism/playlist.mpd
 
 #EXTINF:0,CBC SPORT HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
@@ -86,6 +86,7 @@ https://bozztv.com/dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 http://mfe01.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 
 #EXTINF:0,CBC Azerbaijan
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 http://149.255.154.198:80/cbc/index.m3u8
 
 #EXTINF:0,Kepez (Gence)
@@ -247,7 +248,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Пoбеда HD
 http://bal.pst.streaming-elbrus.su:8880/bigteisti8/POBEDA/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0,Пoбеда HD (REZ)
-http://109.205.166.68/server123/tlc/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+http://ott.teleport.az:80/server123/tlc/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:0, Ден Пoбеда
 http://146.59.93.251/0177/video.m3u8?token=BABAC523B3B5
 https://strm.yandex.ru/kal/den_pobedy/den_pobedy0.m3u8
@@ -302,7 +303,7 @@ https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m
 #EXTINF:0,Discovery SCIENCE
 
 #EXTINF:0,National Geographic HD
-http://bal.pst.streaming-elbrus.su:8880/bigteisti10/NATIONALGEOGRAPHIC/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
+http://mfe02.cliptv.az:80/dash/National_Geographic_HDhjfew567.ism/playlist.mpd
 
 #EXTINF:0,Nat Geo Wild (tur)
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
@@ -399,6 +400,7 @@ http://hlss.goodgame.ru/hls/204709.m3u8
 #EXTINF:-1,Bollywood
 http://146.59.93.251/0130/video.m3u8?token=BABAC523B3B5
 #EXTINF:-1,Hollywood HD
+http://ott.teleport.az:80/server123/hollywood_hd/index.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Hollywood_HD/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 #EXTINF:-1,BCU ACTION
 http://s1.iptvcinema.ru/bcu_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
@@ -447,7 +449,7 @@ http://mfe01.cliptv.az:80/dash/Match_HDghjsg6.ism/playlist.mpd
 #EXTINF:0,Матч! HD
 http://bal.pst.streaming-elbrus.su:8880/bigteisti8/M_HD/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0,Матч! Премьер HD
-http://bal.pst.streaming-elbrus.su:8880/bigteisti1/M_PREMIER/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
+http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
 #EXTINF:0,Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8?vsid=b7u8w6usy4iv9uz
 #EXTINF:0,Матч! Страна
@@ -772,55 +774,43 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
 #EXTINF:0,**MegA Kino-1**(3391 KILOMETRE-2024)
 https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-1.m3u8
-#EXTINF:0,**MegA Kino-2**(KNOX GOES AWAY-2024)
+#EXTINF:0,**MegA Kino-2**(Maymunlar Cehennemi: Yeni Krallık-2024)
 https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-2.m3u8
 #EXTINF:0,**MegA Kino-3**(Attraction 2: İstila 2020)
 https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-3.m3u8
 #EXTINF:0,**MegA Kino-4**(Triple Threat 2019)
 https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megakino-4.m3u8
 
-#EXTINF:-1,Magic Action
-http://s1.iptvcinema.ru/magic_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Magic Thriller
-http://s1.iptvcinema.ru/magic_thriller/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Magic Galaxy
-http://s1.iptvcinema.ru/magic_galaxy/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-
-#EXTINF:-1,VeleS Киноплёнка
-
-#EXTINF:-1,VeleS 60FPS
-http://s1.iptvcinema.ru/veles_60/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Киносерия
-http://s1.iptvcinema.ru/veles_kinoserya/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Premiere
-http://s1.iptvcinema.ru/veles_premiere/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Страшное
-http://s1.iptvcinema.ru/veles_strashnoe/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS СССР
-http://s1.iptvcinema.ru/veles_ussr/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Movie Hits
-http://s1.iptvcinema.ru/veles_movie/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Криминальный
-http://s1.iptvcinema.ru/veles_criminal/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Комедия
-http://s1.iptvcinema.ru/veles_comedy/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Семейный
-http://s1.iptvcinema.ru/veles_family/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Вестерн
-http://s1.iptvcinema.ru/veles_western/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,VeleS Наше Кино
-http://s1.iptvcinema.ru/veles_nashekino/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+#EXTINF:0,VeleS Киносерия
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOSERIES/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+#EXTINF:0,VeleS СССР
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_USSSR/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+#EXTINF:0,VeleS Movie Hits
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MOVIE_HITS/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+#EXTINF:0,VeleS Вестерн
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936910/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
 
 
-#EXTINF:-1,Magic Action
-http://s1.iptvcinema.ru/magic_action/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Magic VHS
-http://s1.iptvcinema.ru/magic_vhs/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Magic Comedy
-http://s1.iptvcinema.ru/magic_comedy/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Magic Horror
-http://s1.iptvcinema.ru/magic_horror/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
-#EXTINF:-1,Magic Adventure
-http://s1.iptvcinema.ru/magic_adventure/index.m3u8?token=bWFzdGVyOTB8fGRtc3hNVEl5T1RBPQ==
+#EXTINF:-1,Prokop TV New Films HD
+http://146.59.93.251/0314/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,Prokop TV Cinema Best HD
+http://146.59.93.251/0315/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,Prokop TV Criminal HD
+http://146.59.93.251/0307/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,Prokop TV Horror HD
+http://146.59.93.251/0310/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,Кинозал! ХИТ HD
+http://146.59.93.251/0254/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,Кинозал! Bond007
+http://146.59.93.251/0257/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,Sky2000 HD
+http://146.59.93.251/0248/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,Cobra Comedy HD
+http://146.59.93.251/0301/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1,КиноБоевик HD KZ
+http://146.59.93.251/0229/video.m3u8?token=BABAC523B3B5
+#EXTINF:-1
 
-#EXTINF:-1,multivariant test
+#EXTINF:-1
+
+#EXTINF:-1
