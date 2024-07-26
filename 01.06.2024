@@ -6,59 +6,56 @@ https://dl.dropbox.com/scl/fi/024elousp0chakjw0boh6/InfoBildiris.mp4?rlkey=rs2mw
 https://raw.githubusercontent.com/megasmartgence90/RESTREAM/main/megatv.m3u8
 http://iptv.prosto.tv:7000/ch328/video.m3u8
 
-http://ssh101-fl.bozztv.com/ssh101/mega022/index.m3u8
-
 
 
 #EXTINF:-1,AzTv HD
 http://flussonic.izone.az:80/aztv/index.m3u8
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1,AzTv (REZ)
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/az-tv.m3u8
 http://mfe02.cliptv.az:80/dash/AzTV_SD1qaz111_re.ism/playlist.mpd
 
 #EXTINF:0,Azad Azerbaycan HD 
 https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/azadtv.m3u8
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
 #EXTINF:0,Azad Azerbaycan HD REZ
-http://mfe02.cliptv.az:80/dash/ATV_SDthm07005_re.ism/playlist.mpd
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/atv-azad.m3u8
 
 #EXTINF:0,Xezer TV HD
 http://185.32.44.154/XezerTVHD/index.m3u8
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:0,Xezer TV SD (REZ)
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/xezer-tv.m3u8
 http://mfe.cliptv.az/dash/Xezer_SDuk.000656_re.ism/playlist.mpd
 
-#EXTINF:0,Ictimai SD
+#EXTINF:0,Ictimai HD
+http://185.32.44.154/IctimaiHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ictimai SD (REZ)
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/ictimai-tv.m3u8
 http://mfe02.cliptv.az/dash/Ictimai_HD111_re.ism/playlist.mpd
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
-#EXTINF:0,Ictimai HD (REZ1)
-http://185.32.44.154/IctimaiHD/index.m3u8
-http://149.255.154.198:80/ictimaitv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0,Space TV
 http://185.32.44.154/spacetv/index.m3u8
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:0,Space TV(REZ)
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/space-tv.m3u8
 http://mfe02.cliptv.az/dash/Space_SDrgn040056_re.ism/playlist.mpd
 
 #EXTINF:0,arb
 http://185.32.44.154/arb/index.m3u8
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:0,arb (REZ)
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/arb.m3u8
 http://mfe01.cliptv.az:80/dash/ARB_SDwdv010056_re.ism/playlist.mpd
 
 #EXTINF:0,arb24 HD
 http://149.255.154.198:80/arb24/index.m3u8
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:0,arb24 SD (REZ)
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/arb-24.m3u8
 http://mfe02.cliptv.az/dash/ARB_24_SDrfv011056_re.ism/playlist.mpd
 
 #EXTINF:0,Real TV HD
-http://mfe02.cliptv.az:80/dash/Real_TV_SDdfg010856_re.ism/playlist.mpd
-https://raw.githubusercontent.com/megasmartgence90/youtube-to-m3u8/main/streams/REAL%20Tv.m3u8
+http://185.32.44.154/RealTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Real TV HD(REZ)
 https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/real-tv.m3u8
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
+http://mfe02.cliptv.az:80/dash/Real_TV_SDdfg010856_re.ism/playlist.mpd
 
 
 #EXTINF:0,BAKU TV HD
@@ -68,12 +65,13 @@ https://rtmp.baku.tv/streams/bakutv.m3u8
 http://rtmp.apa.tv:80/@pagroup!23.m3u8
 
 #EXTINF:0,Mədəniyyət Tv
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/medeniyet-tv.m3u8
 
 #EXTINF:0,ATV Sinema
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 
 #EXTINF:0,Idman Azerbaycan HD
+http://185.32.44.154/IdmanAzerbaycanHD/tracks-v1a1/mono.m3u8
 http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
 #EXTINF:0,Idman Azerbaycan HD (REZ)
 http://mfe.cliptv.az/dash/Idman_HD111.ism/playlist.mpd
@@ -93,8 +91,7 @@ http://149.255.154.198:80/cbc/index.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
 #EXTINF:0,Kanal S (Şəki)
-http://185.32.44.154/Kanal_S/index.m3u8
-http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+https://raw.githubusercontent.com/megasmartgence90/myvideoaz/main/myvideo-az/kanal-s.m3u8
 
 #EXTINF:0,ELTV (Yevlax)
 http://85.132.53.162:1935/live/eltv/chunklist_w1605359810.m3u8
@@ -172,7 +169,6 @@ http://213.239.195.222:80/azerbaijan/vostok/chunks.m3u8
 http://mfe02.cliptv.az/dash/ARB_Gunesh_SDthd013056_re.ism/playlist.mpd
 
 #EXTINF:0, Пeрвый канал HD
-http://135.181.115.81:8000/play/a003/index.m3u8?token=livetv
 http://185.32.44.154/PerviyHD/index.m3u8
 #EXTINF:0, Пeрвый канал SD
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
