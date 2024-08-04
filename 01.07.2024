@@ -491,7 +491,7 @@ http://mfe02.cliptv.az:80/dash/Match_Football_3_5HDyhnbgt61.ism/playlist.mpd
 http://146.59.93.251/0459/video.m3u8?token=BABAC523B3B5
 
 #EXTINF:0,SETANTA SPORTS 1 HD(az)
-https://erlyvideo.beeonline.az/SetantaSports/video.m3u8
+http://185.32.44.154/SetantaSports/video.m3u8
 
 #EXTINF:0,SETANTA SPORTS 1 HD(LOOK)
 
@@ -508,8 +508,8 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Setanta_Sports_2/mono.m3u8?to
 #EXTINF:0,Телеканал Футбол HD
 http://bal.pst.streaming-elbrus.su:8880/bigteisti8/FOOTBALL_HD/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #EXTINF:0, Телеканал Футбол SD
-http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/5050/index.m3u8
-#EXTINF:0, Телеканал Футбол HD (Vip L)
+
+#EXTINF:0, Телеканал Футбол HD (CAS)
 http://146.59.93.251/0474/video.m3u8?token=BABAC523B3B5
 #EXTINF:0, Телеканал Футбол HD (yandex)
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8?vsid=xe2ga9c75tmaohf
@@ -541,9 +541,9 @@ http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FAST_FUN_BOX_TR/mono.m3u8?tok
 
 
 #EXTINF:-1,Bein Sports MAX 1 HD
-https://sei.1da87064b1b25605.shop/p/www.canlimaclar2237.sbs/805/a.orhankutluu835.workers.dev/chunklist_hd.m3u8
+
 #EXTINF:-1,Bein Sports MAX 2 HD
-http://12.troya.one:34000/ch1450/mono.m3u8?token=mega2024.zfi1PwlI-lNwqAlvmd4HJt7iECRNb-5PpZHaQeozdedml2e3QRKjkX8bWOYstnRN
+
 
 #EXTINF:-1,S Sport HD
 http://146.59.93.251/0977/video.m3u8?token=BABAC523B3B5
@@ -551,7 +551,7 @@ http://146.59.93.251/0977/video.m3u8?token=BABAC523B3B5
 http://146.59.93.251/0978/video.m3u8?token=BABAC523B3B5
 
 #EXTINF:0,Sport 1 HD IL
-http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_1_IL/video.m3u8?token=bWVnYWdlbmNlMDIwfHxkbXN4TVRJeU9UQT0=
+
 #EXTINF:0,Sport 2 HD IL
 
 #EXTINF:-1,DIGI Sport 1 HD
@@ -596,10 +596,8 @@ Turk ULUSAL
 https://dvrfl05.tulix.tv/gin-trt1eu/index.m3u8
 https://tv-trt1-dai.medya.trt.com.tr/master_720p.m3u8
 #EXTINF:0,TRT 1 HD (restream)
-https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/TRT1-restream.m3u8
 https://hw1.jemtv.com/app/trt1/playlist.m3u8
 #EXTINF:0,NOW HD
-https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/nowtv.m3u8
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/nowtv.m3u8
